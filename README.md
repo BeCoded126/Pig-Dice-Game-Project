@@ -1,6 +1,6 @@
                                                 **The Pig Dice Game**
 
-Starting learning Javascript prior to the full-stack bootcamp and was able to create something called the "Pig Dice Game".
+Started learning Javascript prior to the full-stack bootcamp and was able to create something called the "Pig Dice Game".
 
 It's a 2 player game with the objective of adding points with a randomized number generator. 
 
